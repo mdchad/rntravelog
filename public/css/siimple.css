@@ -27,7 +27,7 @@ blockquote {
   padding-top: 5px; }
 
 a {
-  color: #09a0f6;
+  color: #ea1717;
   font-weight: normal;
   text-decoration: none;
   transition: all 0.3s; }
@@ -184,14 +184,14 @@ h6 {
     cursor: pointer;
     border-radius: 5px;
     transition: all 0.3s;
-    color: #09a0f6;
+    color: #ea1717;
     background-color: transparent;
-    border: 1px solid #09a0f6; }
+    border: 1px solid #ea1717; }
     .btn-outline:hover {
       text-decoration: none; }
     .btn-outline:hover {
       color: #ffffff;
-      background-color: #09a0f6; }
+      background-color: #ea1717; }
 
 code {
   font-family: 'Open Sans';

@@ -10,3 +10,12 @@ a {
 #idleft {
   text-align: left
 }
+
+.red {
+  background: #ea1717;
+  color: #fff;
+}
+
+.red h1 {
+  color: #fff;
+}
